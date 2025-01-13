@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to DemoBank loans related Prod APIs"
+  message: "Welcome to DemoBank loans related Production APIs"
   contactDetails:
     name: "Reine Aiswarya - Developer"
     email: "aishwarya@eazybank.com"
