@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to DemoBank accounts related Prod APIs"
+  contactDetails:
+    name: "Reine Aiswarya - Developer"
+    email: "aishwarya@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 555-1345
