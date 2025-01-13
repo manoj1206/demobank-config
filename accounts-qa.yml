@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to DemoBank accounts related QA-4 APIs"
+  message: "Welcome to DemoBank accounts related QA-5 APIs"
   contactDetails:
     name: "Smitha Roy - Developer"
     email: "smitha@eazybank.com"
